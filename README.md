@@ -10,5 +10,3 @@ GIT Basics
 5. Слить ветку branch1 в branch2, затем ветку branch2 в ветку branch3.
 6. Отправить изменения ветки branch3 на сервер.
 7. Прикрепить ссылку на портале Skill Factory.
-**CONFLICT**
-**TCILFNOC**
